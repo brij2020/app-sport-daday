@@ -1,0 +1,169 @@
+{
+    "status": true,
+    "response": {
+        "sections": {
+            "sport_daday_live_score": {},
+            "sport_daday_vidoehub": {},
+            "sport_daday_event_time_Line": [
+                {
+                    "id": 8,
+                    "Year": "1975-01-16",
+                    "RunnerUp": "Australia",
+                    "Host": "England",
+                    "publishedAt": "2023-01-15T07:50:16.889Z",
+                    "Final_Match_Heighlight": "West Indies won by 17 runs",
+                    "Venu": null,
+                    "Winner": "West Indies",
+                    "IsLimitedOvers": false,
+                    "flagTeamA": null,
+                    "flagTeamB": null
+                },
+                {
+                    "id": 9,
+                    "Year": "1979-01-08",
+                    "RunnerUp": "England",
+                    "Host": "England",
+                    "publishedAt": "2023-01-15T07:51:11.997Z",
+                    "Final_Match_Heighlight": "West Indies won by 92 runs",
+                    "Venu": null,
+                    "Winner": "West Indies",
+                    "IsLimitedOvers": false,
+                    "flagTeamA": null,
+                    "flagTeamB": null
+                },
+                {
+                    "id": 10,
+                    "Year": "1983-01-12",
+                    "RunnerUp": "West Indies",
+                    "Host": "England",
+                    "publishedAt": "2023-01-15T07:52:05.355Z",
+                    "Final_Match_Heighlight": "India won by 43 runs",
+                    "Venu": null,
+                    "Winner": "India",
+                    "IsLimitedOvers": false,
+                    "flagTeamA": null,
+                    "flagTeamB": null
+                },
+                {
+                    "id": 11,
+                    "Year": "1987-01-20",
+                    "RunnerUp": "England",
+                    "Host": "India and Pakistan",
+                    "publishedAt": "2023-01-15T07:53:21.109Z",
+                    "Final_Match_Heighlight": "Australia won by 7 runs",
+                    "Venu": null,
+                    "Winner": "Australia",
+                    "IsLimitedOvers": false,
+                    "flagTeamA": null,
+                    "flagTeamB": null
+                },
+                {
+                    "id": 12,
+                    "Year": "1992-01-16",
+                    "RunnerUp": "England",
+                    "Host": "Australia and New Zealand",
+                    "publishedAt": "2023-01-15T08:07:57.078Z",
+                    "Final_Match_Heighlight": "Pakistan won by 22 runs",
+                    "Venu": null,
+                    "Winner": "Pakistan",
+                    "IsLimitedOvers": false,
+                    "flagTeamA": null,
+                    "flagTeamB": null
+                },
+                {
+                    "id": 13,
+                    "Year": "1996-01-23",
+                    "RunnerUp": "Australia",
+                    "Host": "Pakistan and India",
+                    "publishedAt": "2023-01-15T08:09:15.066Z",
+                    "Final_Match_Heighlight": "Sri Lanka won by 7 wickets",
+                    "Venu": null,
+                    "Winner": "Sri Lanka",
+                    "IsLimitedOvers": false,
+                    "flagTeamA": null,
+                    "flagTeamB": null
+                },
+                {
+                    "id": 14,
+                    "Year": "1999-01-20",
+                    "RunnerUp": "Pakistan",
+                    "Host": "England",
+                    "publishedAt": "2023-01-15T08:10:27.087Z",
+                    "Final_Match_Heighlight": "Australia won by 8 wickets",
+                    "Venu": null,
+                    "Winner": "Australia",
+                    "IsLimitedOvers": false,
+                    "flagTeamA": null,
+                    "flagTeamB": null
+                },
+                {
+                    "id": 15,
+                    "Year": "2003-01-14",
+                    "RunnerUp": "India",
+                    "Host": "South Africa",
+                    "publishedAt": "2023-01-15T08:11:25.201Z",
+                    "Final_Match_Heighlight": "Australia won by 125 runs",
+                    "Venu": null,
+                    "Winner": "Australia",
+                    "IsLimitedOvers": false,
+                    "flagTeamA": null,
+                    "flagTeamB": null
+                },
+                {
+                    "id": 16,
+                    "Year": "2007-01-11",
+                    "RunnerUp": "Sri Lanka",
+                    "Host": "West Indies",
+                    "publishedAt": "2023-01-15T08:12:41.353Z",
+                    "Final_Match_Heighlight": "Australia won by 53 runs",
+                    "Venu": null,
+                    "Winner": "Australia",
+                    "IsLimitedOvers": false,
+                    "flagTeamA": null,
+                    "flagTeamB": null
+                },
+                {
+                    "id": 17,
+                    "Year": "2011-01-05",
+                    "RunnerUp": "Sri Lanka",
+                    "Host": "India and Bangladesh",
+                    "publishedAt": "2023-01-15T08:13:33.220Z",
+                    "Final_Match_Heighlight": "India won by 6 wickets",
+                    "Venu": null,
+                    "Winner": "India",
+                    "IsLimitedOvers": false,
+                    "flagTeamA": null,
+                    "flagTeamB": null
+                },
+                {
+                    "id": 18,
+                    "Year": "2015-01-20",
+                    "RunnerUp": "New Zealand",
+                    "Host": "Australia and New Zealand",
+                    "publishedAt": "2023-01-15T08:14:15.724Z",
+                    "Final_Match_Heighlight": "Australia won by 7 wickets",
+                    "Venu": null,
+                    "Winner": "Australia",
+                    "IsLimitedOvers": false,
+                    "flagTeamA": null,
+                    "flagTeamB": null
+                },
+                {
+                    "id": 19,
+                    "Year": "2019-01-24",
+                    "RunnerUp": "New Zealand",
+                    "Host": "England and Wales",
+                    "publishedAt": "2023-01-15T08:16:20.224Z",
+                    "Final_Match_Heighlight": "Match tied after regular play and super over; England won on boundary count",
+                    "Venu": null,
+                    "Winner": "England",
+                    "IsLimitedOvers": false,
+                    "flagTeamA": null,
+                    "flagTeamB": null
+                }
+            ]
+        },
+        "seo": {},
+        "ads": {}
+    }
+}
